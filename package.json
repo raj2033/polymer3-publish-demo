@@ -1,5 +1,6 @@
 {
   "name": "publish-demo",
+  "version": "0.0.0",
   "main": "publish-demo.js",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
